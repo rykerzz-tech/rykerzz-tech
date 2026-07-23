@@ -83,6 +83,15 @@
 
 ---
 
+## 💼 Work & Internship Experience
+
+### **Copeland (Thailand) Co., Ltd.** — *IT Support (1-Year Internship)*
+*📅 2024*
+* Managed company IT systems, maintained local network infrastructure, and supported internal users.
+* Diagnosed, troubleshot, and resolved technical software/hardware issues and system bugs within the organization.
+
+---
+
 ## 🛠️ Technical Skills & Tools
 
 ### 💻 Full-Stack & Web Engineering
