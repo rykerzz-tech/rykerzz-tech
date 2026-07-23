@@ -7,11 +7,7 @@
 
 <!-- Animated Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Chayanont+Khongkasem+👋;ICT+Student+@+Phranakhon+Rajabhat+University+(PNRU)+🎓;Full-Stack+Developer+%7C+IT+Support+%26+Helpdesk;Prompt+Engineering+%26+AI+Technical+Specialist+🚀" alt="Typing Name">
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=4000&pause=1000&color=A78BFA&center=true&vCenter=true&width=680&lines=Full-Stack+Dev+%7C+IT+Support+%7C+System+Helpdesk+%7C+Network;Prompt+Engineering+%7C+AI-Assisted+Coding+%7C+Automation;TypeScript+%7C+JavaScript+%7C+Node.js+%7C+React+%7C+Next.js;Hardware+%7C+OS+Troubleshooting+%7C+Windows+%7C+Linux+%7C+Git;Passionate+about+IT+Services+%26+Software+Engineering+✨" alt="Role Typing">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Chayanont+Khongkasem+👋;ICT+Student+@+Phranakhon+Rajabhat+University+(PNRU)+🎓;Full-Stack+Developer+%7C+IT+Support+%26+Helpdesk;Prompt+Engineering+%26+AI+Technical+Specialist+🚀;System+Troubleshooting+%26+OS+Maintenance+🛠️" alt="Typing Name">
 </p>
 
 <br>
