@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 <!-- ================================================================= -->
 <!-- 💜 ส่วนที่ 1: หัวข้อหลักและชื่อโปรไฟล์ (Main Header) -->
@@ -68,7 +68,7 @@
 ```text
 🛠️ IT Support & Helpdesk (Hardware/Software Troubleshooting, OS Maintenance, Network Support)
 🖥️ Systems & Infrastructure (Windows/Linux Admin, Active Directory, Endpoint Management)
-🤖 AI Engineering & Automation (Prompt Engineering, AI-Assisted Workflows, Agent Architectures)
+🤖 AI Engineering & Automation (Prompt Engineering, AI-Assisted Workflows, Automation Solutions)
 ☁️ Cloud & Infrastructure (Docker, Cloud Services, Backup Solutions, System Security)
 ```
 
@@ -82,7 +82,6 @@
 <img src="https://img.shields.io/badge/Faculty-Information_&_Communication_Tech-00E676?style=flat-square&labelColor=0d1117"><br>
 <img src="https://img.shields.io/badge/Focus-IT_Support_&_Systems-A78BFA?style=flat-square&labelColor=0d1117"><br>
 <img src="https://img.shields.io/badge/Specialty-AI_Tools_&_Prompt_Eng-6366F1?style=flat-square&labelColor=0d1117"><br>
-<img src="https://img.shields.io/badge/Project-Ryker_Multi--Agent_Tech_v1.0.0-EC4899?style=flat-square&labelColor=0d1117"><br>
 <img src="https://img.shields.io/badge/Status-Open_for_Opportunities-3B82F6?style=flat-square&labelColor=0d1117">
 
 <br>
@@ -92,7 +91,6 @@
 
 <a href="mailto:rykerzz.tech@gmail.com"><img src="https://img.shields.io/badge/Email-rykerzz.tech%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117"></a>
 <a href="https://github.com/rykerzz-tech"><img src="https://img.shields.io/badge/GitHub-rykerzz--tech-181717?style=flat-square&logo=github&logoColor=white&labelColor=0d1117"></a>
-<a href="https://github.com/rykerzz-tech/ryker-multi-agent-tech"><img src="https://img.shields.io/badge/Repo-Ryker_MultiAgent-8B5CF6?style=flat-square&logo=git&logoColor=white&labelColor=0d1117"></a>
 
   </td>
   </tr>
@@ -102,29 +100,13 @@
 <!-- 💜 ส่วนที่ 6: แบดจ์สถิติด้านบนของ Repository -->
 <!-- ================================================================= -->
 <p>
-  <img src="https://img.shields.io/github/stars/rykerzz-tech/ryker-multi-agent-tech?style=for-the-badge&logo=github&logoColor=white&color=8B5CF6&labelColor=0d1117" alt="Stars">
   <img src="https://img.shields.io/github/followers/rykerzz-tech?style=for-the-badge&logo=github&logoColor=white&color=A78BFA&labelColor=0d1117" alt="Followers">
-  <a href="https://github.com/rykerzz-tech/ryker-multi-agent-tech">
-    <img src="https://img.shields.io/badge/Main_Project-Ryker_Multi--Agent_Tech-EC4899?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117" alt="Project">
-  </a>
 </p>
 
 </div>
 
 ---
 
-<!-- ================================================================= -->
-<!-- 💜 ส่วนที่ 7: ไฮไลท์โปรเจกต์เด่น (Featured Project Showcase) -->
-<!-- ================================================================= -->
-## 🌟 Featured Project
-
-### ⚡ [Ryker Multi-Agent Tech](https://github.com/rykerzz-tech/ryker-multi-agent-tech)
-> **Autonomous Multi-Agent AI Framework & Developer Workflow Acceleration System**
-* 🤖 **Architecture:** Specialized AI Agents, Model Context Protocol (MCP) Integration, Tool Execution Engine.
-* 🛠️ **Tech Stack:** Node.js, TypeScript, OpenAI / Anthropic APIs, Automated Unit & Integration Testing.
-* 📦 **Status:** `v1.0.0 Production Release` · Fully Open Source
-
----
 
 <!-- ================================================================= -->
 <!-- 💜 ส่วนที่ 8: ประสบการณ์การทำงานและฝึกงาน (Work & Internship Experience) -->
@@ -154,7 +136,7 @@
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-8B5CF6?style=for-the-badge&logo=openai&logoColor=white)
 ![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude API](https://img.shields.io/badge/Claude_API-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
-![Multi-Agent Architecture](https://img.shields.io/badge/Multi--Agent_Systems-EC4899?style=for-the-badge&logo=probot&logoColor=white)
+![AI Automation](https://img.shields.io/badge/AI_Automation-EC4899?style=for-the-badge&logo=probot&logoColor=white)
 ![MCP Protocol](https://img.shields.io/badge/MCP-Protocol-7C4DFF?style=for-the-badge&logo=apacherocketmq&logoColor=white)
 
 ### 💻 Software & Scripting Knowledge
