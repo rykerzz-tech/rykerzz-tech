@@ -1,4 +1,4 @@
-# ⚡ Chayanont Khongkasem
+#  Chayanont Khongkasem
 ### IT Support Specialist · Systems & Infrastructure Support · AI Applications
 
 <p align="left">
